@@ -3,5 +3,9 @@ body {
     color: whitesmoke;
     display: grid;
     place-content: center;
+<<<<<<< HEAD
     margin: 20px;
+=======
+    padding: 30px;
+>>>>>>> feature-c
 }
